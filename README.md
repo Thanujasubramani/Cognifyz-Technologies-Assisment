@@ -80,13 +80,95 @@ Through this project, I applied:
 * Data Visualization
 * Insight Generation
 
+# Cognifyz Technologies – Level 2 Data Analytics Tasks
+## Project Overview
 
-# Author
+This repository contains my solutions for the Level 2 Data Analytics Tasks assigned by Cognifyz Technologies.
+
+The project focuses on deeper analytical concepts including rating analysis, cuisine patterns, geographic visualization, and restaurant chain insights using Python.
+
+## Objectives
+
+* The goals of this project were to:
+
+* Perform advanced exploratory data analysis (EDA)
+
+* Identify patterns and trends in ratings & votes
+
+* Analyze cuisine combinations
+
+* Conduct geographic data visualization
+
+* Extract business-driven insights
+
+# Tasks Completed
+## Task 1 – Restaurant Ratings
+
+A* nalyzed the distribution of aggregate ratings
+
+* Identified the most common rating range
+
+* Calculated the average number of votes received by restaurants
+
+## Key Focus:
+Statistical distribution analysis, central tendency measures
+
+ ## Task 2 – Cuisine Combination
+
+* Identified the most common cuisine combinations
+
+* Examined relationships between cuisine combinations and ratings
+
+## Key Focus:
+Feature relationships, pattern recognition, comparative analysis
+
+## Task 3 – Geographic Analysis
+
+* Plotted restaurant locations using latitude & longitude
+
+* Identified clustering patterns and restaurant density trends
+
+## Key Focus:
+Geospatial analysis, visualization, spatial patterns
+
+## Task 4 – Restaurant Chains
+
+* Identified restaurant chains within the dataset
+
+* Analyzed ratings and popularity of different chains
+
+* Key Focus:
+Business analytics, brand-level insights, aggregation
+
+## Tech Stack
+
+This project was implemented using:
+
+* Python
+
+* Pandas
+
+* NumPy
+
+* Matplotlib
+
+* Folium 
+
+## Skills Demonstrated
+
+Through this project, I applied:
+
+* Advanced Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Feature Relationship Analysis
+* Geospatial Visualization
+* Business Insight Generation
+
+* Author
 
 Thanuja A S
 BCA 
 
-
 # Acknowledgment
 
-Special thanks to Cognifyz Technologies for providing structured tasks that helped strengthen foundational data analytics skills.
+Thanks to Cognifyz Technologies for providing structured analytical tasks that enhanced my understanding of real-world data analytics and visualization techniques.
